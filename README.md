@@ -1,4 +1,4 @@
-Twitter Bot with Node.js
+# Twitter Bot with Node.js
 A simple Twitter bot that fetches random quotes using the Forismatic API and tweets them using Node.js.
 
 # Prerequisites
